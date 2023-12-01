@@ -1,4 +1,4 @@
-###### 👋 Hi! I’m Miguel Mendo, aka MrQuatrelle.
+#### 👋 Hi! I’m Miguel Mendo, aka MrQuatrelle.
 -   I’m mainly interested in "lower level coding".
 -   I'm most proficient in C nowadays... But I'm trying to fathom the power of Rust in my free time.
 - 🌱 I’m currently on my 4th year at IST (Lisbon University) studying Computer Science.
@@ -16,7 +16,7 @@
   
   
   
-(Btw, I use Arch)
+###### (Btw, I use Arch)
 
 <!---
 MrQuatrelle/MrQuatrelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
