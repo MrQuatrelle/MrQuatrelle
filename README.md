@@ -1,7 +1,7 @@
 ###### 👋 Hi! I’m Miguel Mendo, aka MrQuatrelle.
 -   I’m mainly interested in "lower level coding".
 -   I'm most proficient in C nowadays... But I'm trying to fathom the power of Rust in my free time.
-- 🌱 I’m currently on my 4th year at at IST (Lisbon University) studying Computer Science.
+- 🌱 I’m currently on my 4th year at IST (Lisbon University) studying Computer Science.
 
 ## Languages, Technologies, etc.
 
