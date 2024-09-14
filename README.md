@@ -1,7 +1,7 @@
 #### 👋 Hi! I’m Miguel Mendo, aka MrQuatrelle.
 -   I’m mainly interested in systems programming and distributed systems.
 -   I'm most proficient in C nowadays... But I'm trying to fathom the power of Rust in my free time.
-- 🌱 I’m currently getting a Master's degree at IST (University of Lisbon, Portugal) studying Computer Science, in the areas of specialization in Distributing Systems and IT Systems Management.
+- 🌱 I’m currently getting a Master's degree at IST (University of Lisbon, Portugal) studying Computer Science, in the areas of specialization in Distributed Systems and IT Systems Technology.
 
 ## Languages, Technologies, etc.
 
